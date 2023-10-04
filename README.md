@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-### Tech stack
-<img src="https://img.shields.io/badge/Python-#3776AB?style={스타일}&logo=Python&logoColor=white"/>
-
 ### Currently Learning...
 - Machine Learning / Deep Learning, Mainly Computer Vision
 
