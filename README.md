@@ -4,7 +4,7 @@
 - Machine Learning / Deep Learning, Mainly Computer Vision
 
 ### Competitions
-I'm actively participating in ML/DL competitions whenever I can. (Dacon/Kaggle, usually Dacon)
+I'm actively participating in ML/DL competitions. (Dacon/Kaggle, usually Dacon)
 
 2023 Samsung AI Challenge : Image Quality Assessment (1st) </br>
 2022 Prediction of breast cancer lymph node metastasis AI Competition (1st) </br>
