@@ -1,12 +1,10 @@
 ### Hi there 👋
-### Hi, there 👋
 
-
-
-### Tech Stack 
+### Tech stack
+<img src="https://img.shields.io/badge/#3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ### Currently Learning...
-Machine Learning / Deep Learning, Mainly Computer Vision
+- Machine Learning / Deep Learning, Mainly Computer Vision
 
 ### Competitions
 I'm actively participating in ML/DL competitions whenever I can. (Dacon/Kaggle, usually Dacon)
@@ -16,7 +14,7 @@ I'm actively participating in ML/DL competitions whenever I can. (Dacon/Kaggle, 
 2022 Prediction of Bok choy growth (3rd)
 ... 
 
-**Team proposals are always welcome! (via Gmail)**
+Team proposals are always welcome! (via Gmail)
 
 
 
