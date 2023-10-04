@@ -11,7 +11,7 @@ I'm actively participating in ML/DL competitions whenever I can. (Dacon/Kaggle, 
 2022 Prediction of Bok choy growth (3rd) </br>
 ... </br>
 </br>
-Team proposals are always welcome! (via Gmail)
+Team proposals are always welcome! (via Gmail rlawodud112294@gmail.com)
 
 
 
