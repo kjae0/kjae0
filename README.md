@@ -3,18 +3,11 @@
 ### Currently Learning...
 - Machine Learning / Deep Learning, Mainly Computer Vision
 
-### Tech Stacks
-Python Pytorch Jax Django
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
 ### Competitions
-I'm actively participating in ML/DL competitions. (Dacon/Kaggle, usually Dacon)
+I'm actively participating in ML/DL competitions. (Dacon/Kaggle)
 
 2023 Samsung AI Challenge : Image Quality Assessment (Samsung, 1st) </br>
-2022 Prediction of breast cancer lymph node metastasis AI Competition (Yonsei sevrance hospital, 1st) </br>
+2022 Prediction of breast cancer lymph node metastasis AI Competition (Yonsei severance hospital, 1st) </br>
 2022 Prediction of Bok choy growth (KIST, 3rd) </br>
 ... </br>
 </br>
