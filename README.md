@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### Currently Learning...
-- Machine Learning / Deep Learning, Mainly Computer Vision
+### Current Status
+- undergraduate AI researcher in SNUH (Seoul National University Hospital)
+- BIND (dev/data side)
 
 ### Competitions
 I'm actively participating in ML/DL competitions. (Dacon/Kaggle)
