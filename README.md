@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Current Status
-- undergraduate AI researcher in SNUH (Seoul National University Hospital)
+- undergraduate AI researcher in Seoul National University Hospital
 - BIND (dev/data side)
 
 ### Competitions
