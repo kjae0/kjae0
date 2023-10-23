@@ -2,7 +2,7 @@
 
 ### Current Status
 - undergraduate AI researcher in Seoul National University Hospital
-- BIND (dev/data side)
+- BIND team (dev/data side)
 
 ### Competitions
 I'm actively participating in ML/DL competitions. (Dacon/Kaggle)
